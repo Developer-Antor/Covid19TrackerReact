@@ -1,0 +1,11 @@
+.cases {
+    font-size: 2rem;
+    color: rgb(214, 8, 8);
+}
+
+.box {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
